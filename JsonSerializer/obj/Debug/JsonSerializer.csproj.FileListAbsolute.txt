@@ -1,0 +1,6 @@
+F:\visual studio 2012\Projects\JsonSerializer\JsonSerializer\bin\Debug\JsonSerializer.exe.config
+F:\visual studio 2012\Projects\JsonSerializer\JsonSerializer\obj\Debug\JsonSerializer.csprojResolveAssemblyReference.cache
+F:\visual studio 2012\Projects\JsonSerializer\JsonSerializer\bin\Debug\JsonSerializer.exe
+F:\visual studio 2012\Projects\JsonSerializer\JsonSerializer\bin\Debug\JsonSerializer.pdb
+F:\visual studio 2012\Projects\JsonSerializer\JsonSerializer\obj\Debug\JsonSerializer.exe
+F:\visual studio 2012\Projects\JsonSerializer\JsonSerializer\obj\Debug\JsonSerializer.pdb
